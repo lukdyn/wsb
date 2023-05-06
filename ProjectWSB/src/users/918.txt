@@ -1,0 +1,6 @@
+saldo = 2000
+imie = Piotr
+nazwisko = Nowak
+pesel = 11223244555
+numerkonta = 123546
+index = 918

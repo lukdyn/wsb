@@ -1,0 +1,6 @@
+saldo = 5000
+imie = Piotr
+nazwisko = Kowalski
+pesel = 11223244555
+numerkonta = 4321
+index = 269

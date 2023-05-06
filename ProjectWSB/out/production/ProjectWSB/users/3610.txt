@@ -1,0 +1,5 @@
+saldo = 1000
+imiePiotrnazwisko = 
+Nowakpesel = 11223244555
+numerkonta = 4321
+index = 3610
